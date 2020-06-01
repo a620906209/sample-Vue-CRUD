@@ -1,2 +1,1 @@
-Laravel Vue SPA CRUD
-資料庫沿用mybakery
+Laravel Vue
